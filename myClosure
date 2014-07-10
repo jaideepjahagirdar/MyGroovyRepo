@@ -1,0 +1,5 @@
+def clos = {println 'Hello World'}
+
+println 'Executing closure'
+
+clos()
