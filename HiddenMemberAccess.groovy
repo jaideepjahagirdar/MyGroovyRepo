@@ -1,5 +1,5 @@
 class HiddenMember {
-  private String name = "Pankya";
+  private String name = "Pankaj";
 
   def getClosure (String name)
   {
